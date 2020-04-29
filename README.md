@@ -5,8 +5,6 @@
 
 
 **快照：**<br />
-简单的账号登录界面<br />
-<img alt="login.png" src="Snapshot/login.png" /><br /><br />
 主界面<br />
 <img alt="main.png" src="Snapshot/main.png" /><br /><br />
 查看日志文件内容<br />
