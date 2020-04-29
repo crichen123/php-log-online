@@ -45,7 +45,7 @@ $path = input('path'); // 路径
 $dirpath = input('dirpath'); // 目录路径
 $action = input('action'); // 操作
 if (input('debugmsg')) {
-    debugmsg('logadminlite.php[0]', 'debugtest');
+    debugmsg('logline.php[0]', 'debugtest');
 }
 
 if ($path) {
